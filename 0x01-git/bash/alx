@@ -3,5 +3,5 @@
 echo ALX
 =======
 #!/bin/bash 
-echo "ALX School"
+echo "ALX School updated for the purpose of confilct"
 >>>>>>> 6796289a99d73feb821edf655ef4fcb47815ba15
